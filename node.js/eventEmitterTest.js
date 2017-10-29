@@ -7,7 +7,7 @@ var eventEmitter = new events.EventEmitter();
 var connectHandler = function connected() {
     console.log('连接成功。');
 
-    // 触发 data_received 事件 
+    // 触发 data_received 事件  
     eventEmitter.emit('data_received');
 }
 
