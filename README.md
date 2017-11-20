@@ -1,7 +1,8 @@
 # Node.js-技术栈
 
 ## node.js
->![](https://nodejs.org/static/images/logo.svg)
+<table><tr><td bgcolor=#000000>![](https://nodejs.org/static/images/logo.svg)</td></tr></table>
+
 
 [官网](https://nodejs.org/zh-cn/)
 
