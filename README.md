@@ -24,7 +24,7 @@ $ npm -v
 
 > webpack 是一个现代 JavaScript 应用程序的模块打包器(module bundler)
 
-[中文文档]:https://doc.webpack-china.org/concepts/
+    [中文文档]:https://doc.webpack-china.org/concepts/
 
 # scss
 
