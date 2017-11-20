@@ -1,7 +1,8 @@
 # Node.js-技术栈
 
 ## node.js
-![](https://nodejs.org/static/images/logo.svg)
+>![](https://nodejs.org/static/images/logo.svg)
+
 [官网](https://nodejs.org/zh-cn/)
 
 ## npm - a JavaScript package manager
