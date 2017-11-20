@@ -12,13 +12,18 @@
 
 > NPM是随同NodeJS一起安装的JavaScript包管理工具
 
+查看版本
 
 ```sh
 $ npm -v
 ```
 
+## [webpack](http://webpack.github.io/)
 
-## webpack
+![](/static/images/webpack_logo.jpg)
+
+> webpack 是一个现代 JavaScript 应用程序的模块打包器(module bundler)
+
 
 # scss
 
