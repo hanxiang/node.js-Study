@@ -1,14 +1,20 @@
-ode.js-技术栈
+# Node.js-技术栈
+
+[![Build Status](https://travis-ci.org/zeit/ms.svg?branch=master)](https://travis-ci.org/zeit/ms)
+[![Slack Channel](http://zeit-slackin.now.sh/badge.svg)](https://zeit.chat/)
+
 ==========
-# 1.npm
-`npm install node-fetch --save`
-
-## 2.webpack
-
 ## node.js
 
-## scss
+## npm - a JavaScript package manager
+### Apple Macintosh Computers
 
-## vue2
+Get the pkg. npm is in it.[ThinkJS](http://www.thinkjs.org)
 
-## thinkjs
+## webpack
+
+# scss
+
+# vue2
+
+# thinkjs
