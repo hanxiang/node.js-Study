@@ -6,7 +6,6 @@
 
 > 是一个基于 Chrome V8 引擎的 JavaScript 运行时。 Node.js 使用高效、轻量级的事件驱动、非阻塞 I/O 模型。它的包生态系统，npm，是目前世界上最大的开源库生态系统。
 
-***
 
 # [npm](https://www.npmjs.com/)
 
@@ -20,7 +19,6 @@
 $ npm -v
 ```
 
-***
 
 # [webpack](http://webpack.github.io/)
 
@@ -30,7 +28,6 @@ $ npm -v
 
 * [中文文档](https://doc.webpack-china.org/concepts/)
 
-***
 
 # [scss](http://sass-lang.com/)
 
@@ -40,7 +37,6 @@ $ npm -v
 
 * [中文文档](https://www.sass.hk/docs/)
 
-***
 
 # [Vue.js](https://cn.vuejs.org/)
 
@@ -50,6 +46,13 @@ $ npm -v
 
 * [中文文档](https://cn.vuejs.org/v2/guide/)
 
-***
 
-# thinkjs
+# [ThinkJS](https://thinkjs.org/)
+
+![](/static/images/thinkjs_logo.png)
+
+> ThinkJS 是一款面向未来开发的 Node.js 框架，整合了大量的项目最佳实践，让企业级开发变得如此简单、高效。从 3.0 开始，框架底层基于 Koa 2.x 实现，兼容 Koa 的所有功能。
+
+* [中文文档](https://thinkjs.org/doc/index.html)
+
+
