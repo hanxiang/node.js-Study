@@ -1,10 +1,9 @@
 # Node.js-技术栈
 
 ## node.js
-![](https://nodejs.org/static/images/nodejs_logo.jpg)
+![](/static/images/nodejs_logo.jpg)
 
-
-[官网](https://nodejs.org/zh-cn/)
+[官网](https://nodejs.org)
 
 ## npm - a JavaScript package manager
 ### Apple Macintosh Computers
