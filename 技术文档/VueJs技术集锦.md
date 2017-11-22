@@ -10,3 +10,4 @@
 
 * [Vue前端单页项目的用户认证思路](https://segmentfault.com/q/1010000008430007/a-1020000008465467)
 * [Vue 进阶教程之：Axios配置JWT/封装插件/发送表单数据](http://www.jianshu.com/p/aeaa353da89b)
+* [如何使用localStorage结合Vuex来保存用户登录信息？](https://segmentfault.com/q/1010000012065855)
