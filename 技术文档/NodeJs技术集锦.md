@@ -40,3 +40,6 @@
 ```sh
     npm-check -s -u
 ```
+
+检测的屏幕截图
+![](/static/images/screen/QQ20171124-114924@2x.png)
