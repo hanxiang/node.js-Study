@@ -18,6 +18,8 @@
     npm -v
 ```
 
+* [在中国，安装 & 升级 npm 依赖的正确方法](https://cnodejs.org/topic/581d96d5bb9452c9052e7b58)
+
 ## [webpack](http://webpack.github.io/)
 
 ![](/static/images/webpack_logo.jpg)
