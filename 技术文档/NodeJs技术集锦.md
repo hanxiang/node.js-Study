@@ -42,4 +42,11 @@
 ```
 
 检测的屏幕截图
+
+* 检测结果
+
 ![](/static/images/screen/QQ20171124-114924@2x.png)
+
+* 更新选择提示
+
+![](/static/images/screen/QQ20171124-115402@2x.png)
