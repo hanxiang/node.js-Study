@@ -28,3 +28,8 @@
 
 * [在线演示](https://iview.github.io/iview-admin/#/login)
 * [github](https://github.com/iview/iview-admin)
+
+## vuex
+
+* [使用localStorage解决vuex在页面刷新后数据被清除的问题](https://www.cnblogs.com/limengyi/p/6534435.html)
+* [《vue通信2》vuex状态存储及持久化，数据状态监听更新](http://www.jianshu.com/p/cd603e148336)
