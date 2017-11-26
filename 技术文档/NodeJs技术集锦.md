@@ -1,6 +1,13 @@
 # Node.js
 > 有关Node.js有关的javascript包
 
+## 基础
+
+* [前后端分离实践（一)](https://segmentfault.com/a/1190000009329474?_ea=2038402)
+* [实现前后端分离的心得](http://blog.jobbole.com/111624/)
+* [基于前后端分离的身份认证方式——JWT](http://blog.csdn.net/riddle1981/article/details/76736518)
+* [前端工程化开发方案app-proto](https://zhuanlan.zhihu.com/p/24866514)
+
 ## [PM2](http://pm2.keymetrics.io/)
 
 > pm2 是一个带有负载均衡功能的Node应用的进程管理器.
