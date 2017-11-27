@@ -42,3 +42,7 @@
 * [svg-captcha](https://github.com/lemonce/svg-captcha)
 * [think-svg-captcha](https://github.com/thinkjs/think-svg-captcha)
 * [后端验证码的值如何和前端进行匹对？](https://segmentfault.com/q/1010000006022962/a-1020000006023034)
+
+## JavaScript Cookie
+
+* [github](https://github.com/js-cookie/js-cookie)
