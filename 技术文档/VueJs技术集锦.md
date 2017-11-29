@@ -56,3 +56,7 @@
     import MD5 from 'crypto-js/md5'
     const _PassWord = MD5(password).toString()
 ```
+
+## 导出Excel js-xlsx
+
+* [github](https://github.com/SheetJS/js-xlsx)
