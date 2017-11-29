@@ -46,3 +46,13 @@
 ## JavaScript Cookie
 
 * [github](https://github.com/js-cookie/js-cookie)
+
+## 加密 crypto-js
+
+* [github](https://github.com/brix/crypto-js)
+
+```javascript
+    const password = '123'
+    import MD5 from 'crypto-js/md5'
+    const _PassWord = MD5(password).toString()
+```
