@@ -60,3 +60,8 @@
 ## 导出Excel js-xlsx
 
 * [github](https://github.com/SheetJS/js-xlsx)
+
+## 模态弹窗 sweet-modal-vue
+
+* [github](https://github.com/adeptoas/sweet-modal-vue)
+* [官网](http://sweet-modal-vue.adepto.as/)
